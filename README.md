@@ -2,7 +2,7 @@
 
 > Description
 
-- CLient built-in with React for Favmus app
+- Client built-in with React for Favmus app
 
 > About Project
 
